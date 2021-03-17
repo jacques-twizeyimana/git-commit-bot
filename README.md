@@ -25,13 +25,15 @@ Or use Python 3
 ```bash
 python3 commitbot.py
 ```
-Enter repository name
-Enter repository url
-Enter number of commits to perform.
-
+```bash
+Enter repository name:
+Enter repository url:
+Enter number of commits to perform:
+Press enter
+```
 Have fun!
 
-## found this app helpful? [by me coffee]()
+## found this app helpful? <small> [by me coffee]()</small>
 
 ## Reach me
 1. [Twitter](https://twitter.com/jacquesSandberg)
