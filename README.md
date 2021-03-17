@@ -34,7 +34,7 @@ Have fun!
 ## found this app helpful? [by me coffee]()
 
 ## Reach me
-[Twitter](https://twitter.com/jacquesSandberg)
-[Facebook](https://www.facebook.com/jacquessmith.sandber.5/)
-[Instagram](https://www.instagram.com/sandberg_smith/)
-[LinkedIn](https://www.linkedin.com/in/jacques-twizeyimana-063a29181/)
+1. [Twitter](https://twitter.com/jacquesSandberg)
+2. [Facebook](https://www.facebook.com/jacquessmith.sandber.5/)
+3. [Instagram](https://www.instagram.com/sandberg_smith/)
+4. [LinkedIn](https://www.linkedin.com/in/jacques-twizeyimana-063a29181/)
